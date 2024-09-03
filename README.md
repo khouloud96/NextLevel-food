@@ -1,5 +1,5 @@
 # NextLevel-food
-It is about a food lover community where you can browse meals and share meals with other community members.
+NextLevel Food is a platform for foodies to share their favorite recipes with the world. It's a place to discover new dishes, and to connect with other food lovers.
 
 It is based on NextJs:
 * Routing and setting up pages
