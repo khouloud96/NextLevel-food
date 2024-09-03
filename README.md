@@ -9,6 +9,6 @@ It is based on NextJs:
 
 
 # Setting up a SQLite Database
-npm install better-sqlite3
+* npm install better-sqlite3
 then execute the initdb.js with node
-node initdb.js
+* node initdb.js
