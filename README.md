@@ -6,3 +6,9 @@ It is based on NextJs:
 * Working with components and React concepts
 * Fentching and sznding data
 * styling, Images and Metadata
+
+
+# Setting up a SQLite Database
+npm install better-sqlite3
+then execute the initdb.js with node
+node initdb.js
