@@ -2,7 +2,7 @@ import MainHeader from '@/components/main-header/main-header';
 import './globals.css'
 
 export const metadata = {
-  title: 'NexLevel Food',
+  title: 'NextLevel Food',
   description: 'Delicious meals, shared by a food-loving community.',
 };
 
